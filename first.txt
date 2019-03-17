@@ -5,3 +5,4 @@
 
 ÅErm
 ÅEgit status
+/ git diff
